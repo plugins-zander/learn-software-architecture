@@ -31,6 +31,6 @@
     * [评估概述](books/1037.md)
     * [主要方式](books/1038.md)
     * [SAAM软件体系结构分析方法](books/1039.md)
-    * [ATAM体系结构权衡分析方法](books/1040md)
+    * [ATAM体系结构权衡分析方法](books/1040.md)
 * [end1041](books/1999.md)
 
