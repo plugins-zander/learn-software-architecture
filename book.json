@@ -11,6 +11,7 @@
     },
     "plugins": [
         "pageview-count",
+        "anchors",
         "mygitalk",
         "github",
         "github-buttons",
