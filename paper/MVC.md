@@ -16,7 +16,7 @@ MVC模式最早由[Trygve Reenskaug](https://zh.wikipedia.org/w/index.php?title=
 - 视图（View） - 界面设计人员进行图形界面设计。
 - 模型（Model） - 程序员编写程序应有的功能（实现算法等等）、数据库专家进行数据管理和数据库设计(可以实现具体的功能)。
 
-![img](https://cdn.jsdelivr.net/gh/ZanderZhao/images/img2020/20200115192046.png)
+![img](https://cdn.jsdelivr.net/gh/ZanderZhao/img20/file/20200115192046.png)
 
 ## 目录
 
@@ -24,7 +24,7 @@ MVC模式最早由[Trygve Reenskaug](https://zh.wikipedia.org/w/index.php?title=
 
 ## 组件的互动[[编辑](https://zh.wikipedia.org/w/index.php?title=MVC&action=edit&section=1)]
 
-![img](https://cdn.jsdelivr.net/gh/ZanderZhao/images/img2020/20200115192047.png)
+![img](https://cdn.jsdelivr.net/gh/ZanderZhao/img20/file/20200115192047.png)
 
 将应用程序划分为三种组件，模型 - 视图 - 控制器（MVC）设计定义它们之间的相互作用。[[2\]](https://zh.wikipedia.org/wiki/MVC#cite_note-posa-2)
 
